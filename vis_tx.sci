@@ -12,6 +12,6 @@ function vis_tx(th)
 
     subplot(221)
     plot(vtx(:,1),vtx(:,2))
-    xtitle("Тяговые характеристки электровоза")
+    xtitle("Тяговые характеристки электровоза","v, км/ч","F, кН")
 
 endfunction
