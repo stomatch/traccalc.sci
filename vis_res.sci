@@ -1,5 +1,4 @@
 function vis_res (res)
-    //disp(res)
     j=0
     for i=0:5:100
         j=j+1
