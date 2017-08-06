@@ -6,8 +6,10 @@ exec('vis_prof.sci',-1)
 exec('vis_res.sci',-1)
 exec('throtle.sci',-1)
 exec('findtx.sci',-1)
+exec('finds.sci',-1)
 exec('SVCurve.sci',-1)
 exec('TVCurve.sci',-1)
+exec('f_res.sci',-1)
 
 global Result // итоговая матрица с результатами тягового расчета
 
